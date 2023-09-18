@@ -9,15 +9,13 @@ Application Link : https://forms.gle/1zHqueAcpDqFFrb87
 - Prepare for technical coding interviews.
 
 ## 🗓 Data amd Time
-**Workshop Sessions**: 
+**Workshop Sessions**: 5PM - max. 7PM
 - 2023.09.18
 - 2023.10.02
 - 2023.10.16
 - 2023.10.30
 - 2023.11.13
 - 2023.11.27
-
-**5PM - max. 7PM**
 
 ## 🏫 Location
 
