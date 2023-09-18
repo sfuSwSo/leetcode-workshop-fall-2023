@@ -19,7 +19,7 @@ Application Link : https://forms.gle/1zHqueAcpDqFFrb87
 
 ## 🏫 Location
 
-**Burnaby campus, Bennett Library 2nd Floor Computer Lab, room 2105**
+Burnaby campus, Bennett Library 2nd Floor Computer Lab, room 2105
 
 ## ❓ How the workshop runs
 
